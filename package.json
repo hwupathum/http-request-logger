@@ -1,0 +1,13 @@
+{
+  "name": "http-request-logger",
+  "version": "1.0.0",
+  "description": "Node.js Server to Log HTTP API Requests and Responses",
+  "main": "index.js",
+  "repository": "https://github.com/hwupathum/http-request-logger",
+  "author": "hwupathum",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node index.js"
+  }
+}
